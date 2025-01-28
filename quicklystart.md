@@ -9,3 +9,10 @@
 请在多人游戏中添加服务器:mc.foen.us.kg或by.foen.us.kg
 ## 多世界
 本服共分为以下区域：
+| Area        | WorldCode   |
+| ----------- | ----------- |
+| Main City   | world       |
+| Buildings-1 | W-1         |
+| Peaceful    | W-2         |
+| FORW        | Other Server|
+
