@@ -9,10 +9,7 @@
 请在多人游戏中添加服务器:mc.foen.us.kg或by.foen.us.kg
 ## 多世界
 本服共分为以下区域：
-| Area        | WorldCode   |
-| ----------- | ----------- |
-| Main City   | world       |
-| Buildings-1 | W-1         |
-| Peaceful    | W-2         |
-| FORW        | Other Server|
-
+- 主城（代码：World）
+- 建筑区（代码：W-1）
+- 养老生存（代码W-2）
+传送指令：/is tp <世界代码>
